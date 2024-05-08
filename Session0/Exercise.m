@@ -1,4 +1,4 @@
-%esession 0: vector and matrix manipulation, graphs of
+% session 0: vector and matrix manipulation, graphs of
 % functions and MATLAB language
 
 clear all
